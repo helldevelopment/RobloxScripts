@@ -1,3 +1,6 @@
+-- Will be used if the original repo gets deleted or if I want to modify some things.
+
+
 -- // variables
 local library = {}
 local pages = {}
