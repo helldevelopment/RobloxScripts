@@ -34,6 +34,7 @@ end)
 
 if HookmetamethodSuccess then
     print("Hookmetamethod test successful, loading sanity.wtf")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/helldevelopment/RobloxScripts/main/Games/MM2/MurderMysteryZ.lua"))()
 else
     print("Hookmetamethod test failed, loading sanity.lite")
     
