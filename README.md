@@ -13,9 +13,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/helldevelopment/Roblo
 
 ## ✨ Supported Games
 - Arsenal
-- Easy-to-use toggles and sliders
-- Organized tab system
+- Rivals
+- Blade Ball
 
+## 🔥 Upcoming Games
+- Dead Rails
+- Bedwars
+- Universal
 
 ### ⚙️ Configuration
 - **Saving System**
@@ -46,10 +50,8 @@ Special thanks to these people:
 
 ## 📢 Stay Updated
 Join our community:
-- [Discord](https://youtube.com/denger)
+- [Discord](discord.gg/sanitywtf)
 
 ## 📋 License & Disclaimer
 This tool is for educational purposes only. Use at your own risk and in accordance with game terms of service.
 
----
-© 2024 den.net. All rights reserved.
